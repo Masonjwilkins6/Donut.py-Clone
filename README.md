@@ -31,5 +31,7 @@ Once I had the torus drawn in 2D, I was able to then calculate the x and y proje
 I know this wasn't the best explanation, but I really enjoyed learning about a new topic and tried my best to understand the concepts at hand; while there are still some linear Algebra concepts I am still struggling with overall, I was able to learn more about python as a language, as well as, learning more about pygame and GUI (which I really wanted to learn).
 
 
+PS:
 
+The comments within my code provide a more clear explanation.
 
